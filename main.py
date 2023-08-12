@@ -154,7 +154,7 @@ def main():
         def set_state(i):
             st.session_state.stage = i
 
-        st.button('Llama', on_click=set_state, args=[2])
+        st.button('Llama 2', on_click=set_state, args=[2])
         st.button('GPT 3.5 turbo', on_click=set_state, args=[1])
     
         if st.session_state.stage == 1: # if "GPT 3.5 turbo"
