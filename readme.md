@@ -6,7 +6,7 @@
 
 ## How It Works
 ------------
-![ChatPDF App Diagram](./docs/diagram_flow.png)
+![ChatPDF App Diagram](./diagram_flow.png)
 
 The application follows these steps to provide responses to your questions:
 
